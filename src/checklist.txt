@@ -1,0 +1,5 @@
+Check:
+1. methods
+2. getters
+3. constructor
+4. exceptions
